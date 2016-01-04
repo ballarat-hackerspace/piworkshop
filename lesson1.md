@@ -1,24 +1,21 @@
 Your Pi
 =======
 
+1. Introduction to the Raspberry Pi, what it can do, and projects it has been used with
 1. Participants are given a Raspberry Pi, SD card to keep, and a monitor keyboard and mouse to use.
 2. Participants will download the Raspbian OS, write to SD card, and then use that to boot up the Pi
 3. startx shows graphical interface
 
-
-Controlling the world
-=====================
+Programming the Pi
+==================
 1. Writing a basic python script (just very basic, assume no prior knowledge)
-2. Introduce the GPIO pins, and the different types
-3. Connect an LED to a pin (no breadboard yet)
-4. Use a Python script to turn it on/off via code
-5. Connect a button to a different pin
-6. Python script uses button state to control LED state
-7. Introduce breadboard, how it works, and then connect LED/button to it
+2. Basic Python
+3. Go through some basic scripts
+
 
 Exercise
 ========
-1. Build a simple breadboard holder - pi on one side, breadboard on another. Students given a schema and materials
-2. Give each student a 2 x 16 LCD screen (+ components needed to make it work)
-3. Give students a connector document and get them to connect the components themselves
-4. Write a Python script to control the screen (introduce library to do so)
+Python exercises
+1. Create a function that plays rock-paper-scissors
+2. Create a loop that plays lots of games between random inputs
+3. Create a program that plays game against user

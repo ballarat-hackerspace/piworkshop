@@ -1,25 +1,21 @@
-Analog
-======
 
-1. Introduce a temperature/humidity sensor
-2. Show wiring information and how it works
-3. Connect to pi
-4. Write a Python Script to read input data and print out
-
-
-Web Servers
-===========
-
-1. Create a basic flask webserver
-2. Create an API
-3. Hook up the API to the sensor, to show current temperature/humidity
-
+Controlling the world
+=====================
+1. Outline the Pi's input and output options
+2. Introduce the GPIO pins, and the different types
+3. Connect an LED to a pin (no breadboard yet)
+4. Use a Python script to turn it on/off via code
+5. Connect a button to a different pin
+6. Python script uses button state to control LED state
+7. Introduce breadboard, how it works, and then connect LED/button to it
+8. Step through some basic circuits with the Pi connected to a breadboard
 
 Exercise
 ========
+1. Build a simple breadboard holder - pi on one side, breadboard on another. Students given a schema and materials
+2. Give each student a 2 x 16 LCD screen (+ components needed to make it work)
+3. Give students a connector document and get them to connect the components themselves
+4. Write a Python script to control the screen (introduce library to do so)
 
-1. Give each student an ultrasonic sensor and wiring instructions
-2. Wire the sensor up, and read distance information via pi
-3. Expose that information to a web server
-4. Create a web API that controls a stepper motor to set a flag "up" or "down"
-5. When in up position, it is in front of the ultrasonic sensor -- check API to confirm
+
+
