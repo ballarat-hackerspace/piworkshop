@@ -28,7 +28,7 @@ Python exercises
 Materials
 =========
 Workshop costs
-1. Raspberry Pi B+ $50 approx
+1. Raspberry Pi 2 $50 approx
 2. SD Card 4GB+ $10
 
 Hackerspace inventory (i.e. bhack keeps)

@@ -23,5 +23,5 @@ Exercise
 1. Introduce OpenCV and install on Pi
 2. Use motion detection to draw a bounding box
 3. Facial recognition? http://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html#face-recognition
-4. Send to Twitter
+4. Send image + alert to Twitter
 lipo
